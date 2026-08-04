@@ -1,10 +1,14 @@
-# Shourov Physics Portfolio
+# Sidebar Portfolio Update
 
-## Publish with GitHub Pages
-1. Create a new public GitHub repository, such as `shourov-physics-portfolio`.
-2. Upload `index.html`, `styles.css`, `script.js`, and the `assets` folder.
-3. Open **Settings → Pages**.
-4. Choose **Deploy from a branch**, then select `main` and `/root`.
-5. Save and wait for the public URL.
+Replace the existing files in your GitHub repository with:
 
-Before publishing, replace the temporary LinkedIn URL in `index.html` with your real LinkedIn profile.
+- index.html
+- styles.css
+- script.js
+
+Keep these existing files:
+
+- profile.jpg
+- Al_Amin_Wazed_Shourov_Resume.pdf
+
+After uploading the replacements, commit the changes. GitHub Pages will update automatically.
